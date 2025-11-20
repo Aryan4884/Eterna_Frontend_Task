@@ -50,7 +50,7 @@ export class ErrorBoundary extends Component<Props, State> {
                         <div className="space-y-1">
                             <h3 className="text-lg font-semibold text-white">Something went wrong</h3>
                             <p className="text-sm text-gray-400">
-                                We couldn't load this section. Please try refreshing the page.
+                                We couldn&apos;t load this section. Please try refreshing the page.
                             </p>
                         </div>
                         <button
