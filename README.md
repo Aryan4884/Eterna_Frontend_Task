@@ -13,7 +13,6 @@ This project focuses on accurate UI reproduction, smooth interactions, and real-
 - Migrated  
 
 ### **Interactivity**
-- Sortable columns (Symbol, Price, 24h Change)  
 - Hover states & row highlight animations  
 - Click interactions  
 - Popover, tooltip, and modal hooks (Radix-ready)
