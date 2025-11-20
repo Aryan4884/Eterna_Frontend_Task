@@ -52,7 +52,7 @@ This project focuses on accurate UI reproduction, smooth interactions, and real-
 
 ## 📦 Run Locally
 
-git clone https://github.com/Aryan4884/Eterna_Frontend_Task.git && \
-cd Eterna_Frontend_Task && \
-npm install && \
+git clone https://github.com/Aryan4884/Eterna_Frontend_Task.git \
+cd Eterna_Frontend_Task \
+npm install \
 npm run dev
