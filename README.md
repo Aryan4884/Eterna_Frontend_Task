@@ -52,9 +52,7 @@ This project focuses on accurate UI reproduction, smooth interactions, and real-
 
 ## 📦 Run Locally
 
-### 1. Install dependencies
-```bash
-
-
-cd d:\Projects\Eterna
-npm install
+git clone https://github.com/Aryan4884/Eterna_Frontend_Task.git && \
+cd Eterna_Frontend_Task && \
+npm install && \
+npm run dev
